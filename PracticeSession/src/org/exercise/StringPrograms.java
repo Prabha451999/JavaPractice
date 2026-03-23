@@ -10,6 +10,7 @@ ll.add(1);
 ll.add(2);
 ll.add(3);
 
+
 System.out.println(ll);
 
 LinkedList<Integer> ll1 = new LinkedList<>();
